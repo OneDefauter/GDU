@@ -1,2 +1,2 @@
 # GDU
-[Baixe aqui](https://api.github.com/OneDefauter/GDU/releases/latest)
+[Baixe aqui](https://github.com/OneDefauter/GDU//releases/latest)
